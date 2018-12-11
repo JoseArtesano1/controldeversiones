@@ -23,8 +23,8 @@ public class ControldeVersiones {
         System.out.println("holas");
         System.out.println("adios");
         System.out.println("nueva");
-        
-       int nueva=34444; 
+        int=3;
+       
     }
     
 }
