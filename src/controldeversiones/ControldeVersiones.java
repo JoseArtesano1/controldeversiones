@@ -18,8 +18,10 @@ public class ControldeVersiones {
         // TODO code application logic here
         
         System.out.println("hola");
-        
-        
+        System.out.println("adios");
+        System.out.println("nueva");
+        int=3;
+       
     }
     
 }
