@@ -17,6 +17,9 @@ public class ControldeVersiones {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        System.out.println("hola");
+        
+        
         System.out.println("holas");
         System.out.println("adios");
         System.out.println("nueva");
